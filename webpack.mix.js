@@ -2,7 +2,7 @@
 
 let mix = require('laravel-mix');
 
-mix.ts('src/ts/main.ts', 'js').sourceMaps()
+mix.ts('src/Bubble.ts/main.Bubble.ts', 'js').sourceMaps()
     .sass('src/scss/main.scss', 'css').sourceMaps()
     .setPublicPath('dist').setResourceRoot('../')
     .browserSync({

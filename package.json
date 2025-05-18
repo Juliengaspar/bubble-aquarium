@@ -2,8 +2,8 @@
   "name": "bubble-aquarium",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/hepl-dcc/bubble-aquarium",
-  "author": "Daniel Schreurs <daniedaniel.schreurs@hotmail.com>",
+  "repository": "https://https://github.com/Juliengaspar/bubble-aquarium",
+  "author": "Julien Gaspar <julien.gaspar@student.hepl.be>",
   "license": "MIT",
   "scripts": {
     "dev": "npm run development",
